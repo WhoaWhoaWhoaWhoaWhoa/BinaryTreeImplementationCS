@@ -1,0 +1,14 @@
+C:\dotnet\Tree\TreeImplementationCS\bin\Debug\net7.0\TreeImplementationCS.exe
+C:\dotnet\Tree\TreeImplementationCS\bin\Debug\net7.0\TreeImplementationCS.deps.json
+C:\dotnet\Tree\TreeImplementationCS\bin\Debug\net7.0\TreeImplementationCS.runtimeconfig.json
+C:\dotnet\Tree\TreeImplementationCS\bin\Debug\net7.0\TreeImplementationCS.dll
+C:\dotnet\Tree\TreeImplementationCS\bin\Debug\net7.0\TreeImplementationCS.pdb
+C:\dotnet\Tree\TreeImplementationCS\obj\Debug\net7.0\TreeImplementationCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\Tree\TreeImplementationCS\obj\Debug\net7.0\TreeImplementationCS.AssemblyInfoInputs.cache
+C:\dotnet\Tree\TreeImplementationCS\obj\Debug\net7.0\TreeImplementationCS.AssemblyInfo.cs
+C:\dotnet\Tree\TreeImplementationCS\obj\Debug\net7.0\TreeImplementationCS.csproj.CoreCompileInputs.cache
+C:\dotnet\Tree\TreeImplementationCS\obj\Debug\net7.0\TreeImplementationCS.dll
+C:\dotnet\Tree\TreeImplementationCS\obj\Debug\net7.0\refint\TreeImplementationCS.dll
+C:\dotnet\Tree\TreeImplementationCS\obj\Debug\net7.0\TreeImplementationCS.pdb
+C:\dotnet\Tree\TreeImplementationCS\obj\Debug\net7.0\TreeImplementationCS.genruntimeconfig.cache
+C:\dotnet\Tree\TreeImplementationCS\obj\Debug\net7.0\ref\TreeImplementationCS.dll
